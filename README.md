@@ -4,19 +4,6 @@ Welcome to my CTF & OSINT portfolio.
 
 ---
 
-## 🧠 CTF & OSINT Portfolio
-
-This repository documents my learning and practice in:
-
-- 🔍 Open Source Intelligence (OSINT)  
-- 🛡️ Cybersecurity (SOC & Threat Intelligence)  
-- 🧩 Capture The Flag (CTF) challenges  
-- 💻 Technical analysis and problem-solving  
-
-The focus is on **understanding systems, analyzing data, and developing investigative thinking**.
-
----
-
 ## 📂 Contents
 
 - 🧪 **Forensics** — metadata analysis, steganography, file investigation  
