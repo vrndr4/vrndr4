@@ -23,12 +23,12 @@ Each writeup emphasizes:
 
 This is done to:
 
-- ✅ Comply with platform rules (e.g., Hack The Box, TryHackMe)  
+- ✅ Comply with platform rules  
 - 🔐 Avoid public disclosure of challenge answers  
 - 🧠 Prioritize methodology over final results  
 
 Instead of full flags, you may see:
-- Partial flags (e.g., `picoCTF{example_****}`)  
+- Partial flags   
 - Validation statements confirming successful completion  
 
 ---
